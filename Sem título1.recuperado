@@ -1,0 +1,41 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		escreva("Ola Lorenzo")
+		escreva("Teste!")
+		escreva("\n vou pular linha \n")
+		escreva("proxima linha \n")
+
+
+	//escreva("Oi eu sou ",nomeCompleto," e eu tenho ",idade, " anos \n")
+
+	cadeia nomeCompleto = "Lorenzo Rodrigues de Andrade"
+	cadeia cpf = "8756492.6"
+	cadeia dataNascimento = "12/11/2004"
+	cadeia endereco = "rua knicks n3"
+	cadeia email= "Lorenzo04@gmail.com"
+	cadeia numeroTelefone= "83593-5445"
+
+	escreva("\n Nome cliente: ",nomeCompleto)
+	escreva("\n cpf cliente: ",cpf)
+	escreva("\n data de nascimento cliente: ",dataNascimento)
+	escreva("\n endereço cliente: ",endereco)
+	escreva("\n email cliente: ",email)
+	escreva("\n numero de telefone cliente: ",numeroTelefone)
+
+	
+	}
+}
+/* $$$ Portugol Studio $$$ 
+ * 
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
+ * 
+ * @POSICAO-CURSOR = 436; 
+ * @PONTOS-DE-PARADA = ;
+ * @SIMBOLOS-INSPECIONADOS = ;
+ * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
+ * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
+ */
